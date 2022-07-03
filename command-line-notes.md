@@ -1,3 +1,5 @@
+# install gitbash
+
 explorer . makes the file explorer open, 
 for Windows start . makes the file explorer open
 type ls and all files appear and hidden files as well
@@ -11,7 +13,7 @@ nano makes you able to add words to a file
 
 cat shows contents of a file
 
-on powershell to install programs:
+### on powershell to install programs:
 choco install (program name)
 choco uninstall (program name)
 * we installed gitbash *
